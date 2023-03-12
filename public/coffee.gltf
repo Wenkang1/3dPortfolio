@@ -1,0 +1,340 @@
+{
+  "accessors": [
+    {
+      "componentType": 5125,
+      "count": 966,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 310,
+      "max": [
+        1.00943402893403,
+        1.0077214086756987,
+        1.0015920400619507
+      ],
+      "min": [
+        -1.0059571111903471,
+        -1.0076697314486784,
+        -1.0059571111903471
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 310,
+      "max": [
+        1.022793792315559,
+        1.0006649372676086,
+        1.630014759305051
+      ],
+      "min": [
+        -1.0228546679049046,
+        -0.22413471043401073,
+        -1.0228546679049046
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 310,
+      "max": [
+        0.9716300033032894,
+        0.9719108037217242
+      ],
+      "min": [
+        0.028729199288906358,
+        0.0280891981409209
+      ],
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5125,
+      "count": 48,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 17,
+      "max": [
+        0.7066764284582698,
+        1.0044561841908624,
+        0.7066764284582698
+      ],
+      "min": [
+        -0.70667642845827,
+        0.7074871014146243,
+        -0.70667642845827
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 17,
+      "max": [
+        0.8831120041386931,
+        0.7878895517553303,
+        0.8831120041386931
+      ],
+      "min": [
+        -0.8831120041386931,
+        0.7266880365832002,
+        -0.8831120041386931
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 17,
+      "max": [
+        0.9147092064192568,
+        0.9147092064192568
+      ],
+      "min": [
+        0.08529080848190441,
+        0.08529080848190441
+      ],
+      "type": "VEC2"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "kenny_pizza (https://sketchfab.com/kenny_pizza)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/low-poly-coffee-cup-6e6432980e0944219434b81cbc67eacb",
+      "title": "Low Poly Coffee Cup"
+    },
+    "generator": "Sketchfab-12.66.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 1606
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1608,
+      "byteLength": 297
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1912,
+      "byteLength": 1670
+    }
+  ],
+  "buffers": [
+    {
+      "name": "coffee",
+      "byteLength": 3584,
+      "uri": "data:application/octet-stream;base64,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"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_unlit",
+    "KHR_draco_mesh_compression"
+  ],
+  "images": [
+    {
+      "name": "Coffee_baseColor",
+      "bufferView": 2,
+      "mimeType": "image/png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "Porcelain",
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "roughnessFactor": 1
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE"
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "Coffee",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "roughnessFactor": 1
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Cylinder_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 0,
+          "material": 0,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 0,
+              "attributes": {
+                "NORMAL": 0,
+                "POSITION": 1,
+                "TEXCOORD_0": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cylinder_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 6,
+            "TEXCOORD_0": 7
+          },
+          "indices": 4,
+          "material": 1,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 1,
+              "attributes": {
+                "NORMAL": 0,
+                "POSITION": 1,
+                "TEXCOORD_0": 2
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        2.220446049250313e-16,
+        -1,
+        0,
+        0,
+        1,
+        2.220446049250313e-16,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "Root"
+    },
+    {
+      "children": [
+        3,
+        4
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0.3913700000000001,
+        0,
+        0,
+        1
+      ],
+      "name": "Cylinder"
+    },
+    {
+      "mesh": 0,
+      "name": "Cylinder_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Cylinder_1"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9728,
+      "minFilter": 9986,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ],
+  "extensionsRequired": [
+    "KHR_draco_mesh_compression"
+  ]
+}
